@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="category_sydney">Sydney</string>
+    <string name="category_melbourne">Melbourne</string>
+    <string name="category_canberra">Canberra</string>
+    <string name="category_perth">Perth</string>
+
+    <string name="canberra_name1">Palace Electric Cinema</string>
+    <string name="canberra_name2">World Curry Festival</string>
+    <string name="canberra_name3">Dendy Cinemas Canberra</string>
+    <string name="canberra_discript1">This cute little theater (and I mean little) is tucked away on the ground floor of the Nishi Building that also houses Hotel.</string>
+    <string name="canberra_discript2">A journey of spice across the county, the Spice Trail will entice you into the delicious world of some of the best cuisine.</string>
+    <string name="canberra_discript3">Located within the iconic Canberra Centre North Quarter, Dendy Canberra offers you a world-class cinema experience.</string>
+
+    <string name="melbourne_name1">Rooftop Cinema</string>
+    <string name="melbourne_name2">Hosier Lane</string>
+    <string name="melbourne_name3">Australian Centre For The Moving</string>
+    <string name="melbourne_name4">The Kino Cinemas</string>
+    <string name="melbourne_discript1">What a location!! Once you\'ve worked off dinner by climbing the stairs (oh, there is a lift) you come to an area that has a bars on your left and right. </string>
+    <string name="melbourne_discript2">The best street art in Melbourne - if you are visiting Melbourne I would highly recommend checking out the various alleys and lanes with art.</string>
+    <string name="melbourne_discript3">First time here today for the Scorsese exhibition.  Very impressed.  Nice spaces here.  The exhibition itself was great.</string>
+    <string name="melbourne_discript4">Great cinema if you\'re in the CBD and want to catch a foreign or an indie film.</string>
+
+    <string name="perth_name1">Fringe World Festival</string>
+    <string name="perth_name2">State Theatre Centre of WA</string>
+    <string name="perth_discript1">Fringe World is one of the biggest Fringe Festivals in the world and each year it gets bigger and better.</string>
+    <string name="perth_discript2">This is a great little theater very conveniently located in Northbridge - just a few minutes walk from Perth Station and surrounded by lots of bars and restaurants for pre- and post-show options.</string>
+
+    <string name="sydney_name1">The Royal Botanic Gardens</string>
+    <string name="sydney_name2">Art Gallery of NSW</string>
+    <string name="sydney_discript1">Amazing gardens!  This place is very large, peaceful and green.</string>
+    <string name="sydney_discript2">The Art Galley is great to get your culture on. We went this time to the Archibald prize / the line was huge, so buy online (which is what I did whilst in the line). Great art on display, well organised.</string>
+
+</resources>
